@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PS-212.5457.49">
+    <data-source name="Amazon Aurora MySQL" uuid="e83e4101-3020-4202-9f3a-689c6958fe6c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL_AURORA" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
